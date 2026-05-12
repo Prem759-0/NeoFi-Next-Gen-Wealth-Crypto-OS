@@ -1,3 +1,5 @@
+under development 
+
 # NeoFi - Next-Gen Wealth & Crypto OS
 
 NeoFi is an ultra-premium, production-ready frontend interface for high-net-worth portfolio management. Built with a focus on cutting-edge spatial UI, glassmorphism, and fluid animations.
